@@ -84,7 +84,7 @@ padding: 9px 11px  ;
 margin: 20px;
 }
 .img-header-bottom{
-    background: url(../Imges/pic.png) no-repeat  center/cover;
+    background: url(../imges/pic.png) no-repeat  center/cover;
     object-fit: cover;
     height: 900px;
     display: flex;
